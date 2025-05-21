@@ -1,0 +1,4 @@
+Bibliotecas necessárias: matplotlib e networkx
+O programa irá ler o arquivo lau15_dist.txt, calcular um circuito aproximado 
+usando a heurística de inserção do vértice mais próximo exibir o caminho encontrado no terminal.
+Caminho esperado: [0, 1, 9, 8, 14, 7, 3, 5, 13, 6, 4, 12, 2, 10, 11, 0]
